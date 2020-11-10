@@ -1,7 +1,7 @@
 # Online-AI-Supervisor
 
 ## 0. Development Environment
-* Macbook Pro 13 Touchbar 2020
+* MacBook Pro 13" TouchBar 2020
 * macOS Catalina 10.15.7
 * Python 3.8.2
 * IDE: PyCharm CE 2020.2.3
