@@ -12,3 +12,8 @@
 ## 2. How to use
 
 ## 3. Contribute
+
+## Reference
+
+* Pysource, "Eye motion tracking - Opencv with Python", Youtube [https://youtu.be/kbdbZFT9NQI]
+* https://pysource.com/2019/01/04/eye-motion-tracking-opencv-with-python/
