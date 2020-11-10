@@ -1,4 +1,4 @@
-# Online-AI-Supervisor
+# Online-AI-Supervisor (OAS)
 
 ## 0. Development Environment
 * MacBook Pro 13" TouchBar 2020
@@ -9,11 +9,16 @@
 
 ## 1. Installation
 
-In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 " (The new version may not work properly.
+In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 " (The new version may not work properly.)
 
 ## 2. How to use
 
 ## 3. Contribute
+
+## Log
+NTF - Need To Fix
+
+* 2020/11/10 - Project OAS Start, Build a based source code, Apply Webcam(NTF - Can't recognize eyes)
 
 ## Reference
 
