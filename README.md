@@ -9,6 +9,8 @@
 
 ## 1. Installation
 
+In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 " (The new version may not work properly.
+
 ## 2. How to use
 
 ## 3. Contribute
