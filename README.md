@@ -18,7 +18,7 @@ In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 "
 ## Log
 NTF - Need To Fix
 
-* 2020/11/10 - Project OAS Start, Build a based source code(main,py), Apply Webcam(NTF - Can't recognize eyes), Build a code that detect face & eye(eye.py)
+* 2020/11/10 - Project OAS Started, Built a based source code(main,py), Applied Webcam(NTF - Can't recognize eyes), Built a code that detect face & eye(eye.py)
 * 2020/11/11 - Enabled always eye tracking, Started work on eyes' area detecting. (NFT: It can't recognize  face and eyes well when I wearing a mask. And also, it can't find eyes when I wear glasses.)
 
 ## Reference
