@@ -6,7 +6,7 @@ font = cv2.FONT_ITALIC
 
 
 def faceDetect():
-    eye_detect = False
+    eye_detect = True
     face_cascade = cv2.CascadeClassifier("./haarcascade_frontalface_default.xml")  # 얼굴찾기 haar 파일
     eye_cascade = cv2.CascadeClassifier("./haarcascade_eye.xml") # 눈찾기 haar 파일
 
@@ -42,14 +42,14 @@ def faceDetect():
                 roi_color = frame[y:y + h, x:x + w]
                 eyes = eye_cascade.detectMultiScale(roi_gray)
                 for (ex, ey, ew, eh) in eyes:
-                    cv2.rectangle(roi_color, (ex, ey), (ex + ew, ey + eh), (0, 255, 0), 2)
-
+                    cv2.rectangle(roi_color, (ex, ey), (ex + 3 * ew, ey + eh), (0, 255, 0), 2)
+            cv2.rectangle(frame, (x, y), (x + w, y + h*2), (0, 255, 0), 2) #수정필요, 얼굴 부분 확대 위해 필요. 얼굴 인식 네모에서 눈 부위 표시
         cv2.imshow("frame", frame)
         k = cv2.waitKey(30)
 
-        # 실행 중 키보드 i 를 누르면 눈찾기를 on, off한다.
-        if k == ord('i'):
-            eye_detect = not eye_detect
+        # # 실행 중 키보드 i 를 누르면 눈찾기를 on, off한다.
+        # if k == ord('i'):
+        #     eye_detect = not eye_detect
         if k == 27:
             break
     cam.release()
