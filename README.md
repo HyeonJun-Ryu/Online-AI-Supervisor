@@ -21,9 +21,10 @@
 <img width="437" alt="4" src="https://user-images.githubusercontent.com/74097144/99792169-0c6e1200-2b6a-11eb-819e-48d2663c004d.png">
 (The red dot is where you look as OAS predicted.)
 
+ 
 6. If the eyes are out of the test screen(like below picture) for more than a certain period of time, a warning and disqualification will be processed.
 <img width="651" alt="5" src="https://user-images.githubusercontent.com/74097144/99792663-c1a0ca00-2b6a-11eb-8b37-2acafb8c0916.png">
-
+(The red dot is where you look as OAS predicted.)
 
 ## 0. Development Environment
 * MacBook Pro 13" TouchBar 2020
