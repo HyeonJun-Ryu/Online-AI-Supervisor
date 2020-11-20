@@ -1,4 +1,12 @@
 # Online-AI-Supervisor (OAS)
+## Project Purpose
+Because of the Corona 19, many universities are taking non-face-to-face exams. However, there are many irregularities in the non-face-to-face testing, which we want to resolve through the OAS project.
+
+Below link is a related news article
+(https://www.etoday.co.kr/news/view/1902454)
+<img width="1157" alt="Screen Shot 2020-11-20 at 8 33 25 PM" src="https://user-images.githubusercontent.com/74097144/99795780-b56b3b80-2b6f-11eb-9983-cf597e7a8187.png">
+"Inha University and Konkuk University's series of exam cheating scandals...Preparing measures for university districts 'consideration'"
+
 
 ## Team Member
 1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer And Science / hjryu1816@gmail.com
@@ -65,9 +73,13 @@ About Develop - (D)
 
 * 2020/11/03 - 1st Planning Meeting, 
 * 2020/11/10(D) - Project OAS Started, Built a based source code(main,py), Applied Webcam(NTF - Can't recognize eyes), Built a code that detect face & eye(eye.py)
-* 2020/11/11 - 2nd Planning Meeting, Decided a team name(Practical Code (PC)), Planned OAS project.
+* 2020/11/10 - Modify README.md
+* 2020/11/11 - 2nd Planning Meeting, Decided a team name(Practical Code (PC)), Planned OAS project. Modify README.md
 * 2020/11/11(D) - Enabled always eye tracking, Started work on eyes' area detecting. (NFT: It can't recognize  face and eyes well when I wearing a mask. And also, it can't find eyes when I wear glasses.)
-* 2020/11/20 - 
+* 2020/11/15(D) - Modify code to suit my develop environment.
+* 2020/11/19(D) - Create annotations and execution methods for sharing.
+* 2020/11/20(D) - Finalize program and modify bugs.
+* 2020/11/20 - Modify README.md
 
 ## Reference
 
