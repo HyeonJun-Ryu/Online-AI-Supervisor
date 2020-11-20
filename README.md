@@ -1,8 +1,8 @@
 # Online-AI-Supervisor (OAS)
 
 ## Team Member
-1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer And Science
-2. MinJe Seok(Secondary Developer, Document manager) - Kyungpook National University, Department of Agricultural Civil and Biological Engineering
+1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer And Science / hjryu1816@gmail.com
+2. MinJe Seok(Secondary Developer, Document manager) - Kyungpook National University, Department of Agricultural Civil and Biological Engineering / mjseok8@naver.com
 
 ## 0. Development Environment
 * MacBook Pro 13" TouchBar 2020
@@ -13,6 +13,7 @@
 
 ## 1. Installation
 (This guide is based on python and pycharm installed.)
+
 In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 " (The new version may not work properly.)
 
 ## 2. How to use
