@@ -1,5 +1,9 @@
 # Online-AI-Supervisor (OAS)
 
+## Team Member
+1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer And Science
+2. MinJe Seok(Secondary Developer, Document manager) - Kyungpook National University, Department of Agricultural Civil and Biological Engineering
+
 ## 0. Development Environment
 * MacBook Pro 13" TouchBar 2020
 * macOS Catalina 10.15.7
@@ -13,7 +17,11 @@ In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 "
 
 ## 2. How to use
 
+2020/11/20 
+
 ## 3. Contribute
+
+Progressing...
 
 ## Log
 NTF - Need To Fix
