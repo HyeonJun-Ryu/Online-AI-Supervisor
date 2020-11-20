@@ -40,7 +40,20 @@ In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 "
 
 ## 2. How to use
 
-2020/11/20 
+2020/11/20 - Progress about 70 %
+
+OAS/eyetracker.py - Open file on IDE like Pycharm and Run. *"eye_recording.flv" This video must be in the same folder.*
+
+OAS/facedetect.py - Open file on IDE like Pycharm and Run. * Need a cam *
+
+If you want stop the program, press esc.
+
+If an Opencv related error occurs, run the following command.
+< pip uninstall opencv >
+< pip install opencv-python=3.4.8.29 >
+
+Errors can occur in the latest version of opencv.
+
 
 ## 3. Contribute
 
