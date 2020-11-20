@@ -12,7 +12,7 @@
 * opencv-python-3.4.8.29
 
 ## 1. Installation
-
+(This guide is based on python and pycharm installed.)
 In PyCharm terminal, enter this command. " pip install opencv-python==3.4.8.29 " (The new version may not work properly.)
 
 ## 2. How to use
@@ -25,9 +25,12 @@ Progressing...
 
 ## Log
 NTF - Need To Fix
+About Develop - (D)
 
-* 2020/11/10 - Project OAS Started, Built a based source code(main,py), Applied Webcam(NTF - Can't recognize eyes), Built a code that detect face & eye(eye.py)
-* 2020/11/11 - Enabled always eye tracking, Started work on eyes' area detecting. (NFT: It can't recognize  face and eyes well when I wearing a mask. And also, it can't find eyes when I wear glasses.)
+* 2020/11/03 - 1st Planning Meeting, 
+* 2020/11/10(D) - Project OAS Started, Built a based source code(main,py), Applied Webcam(NTF - Can't recognize eyes), Built a code that detect face & eye(eye.py)
+* 2020/11/11 - 2nd Planning Meeting, Decided a team name(Practical Code (PC)), Planned OAS project.
+* 2020/11/11(D) - Enabled always eye tracking, Started work on eyes' area detecting. (NFT: It can't recognize  face and eyes well when I wearing a mask. And also, it can't find eyes when I wear glasses.)
 
 ## Reference
 
