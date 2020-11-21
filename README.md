@@ -10,7 +10,7 @@ Below link is a related news article
 
 
 ## 1. Team Member
-1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer And Science / hjryu1816@gmail.com
+1. HyeonJun Ryu(Team Leader, Main Developer) - Kyungpook National University, Computer Science And Engineering / hjryu1816@gmail.com
 2. MinJe Seok(Secondary Developer, Document manager) - Kyungpook National University, Department of Agricultural Civil and Biological Engineering / mjseok8@naver.com
 
 ## 2. DEMO
