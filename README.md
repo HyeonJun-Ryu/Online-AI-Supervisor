@@ -36,8 +36,8 @@ Below link is a related news article
 (The red dot is where you look as OAS predicted.)
 
 ## 3. Development Environment
-* MacBook Pro 13" TouchBar 2020
-* macOS Catalina 10.15.7
+* MacBook Pro 13" TouchBar 2018
+* macOS Big Sur 11.0.1
 * Python 3.8.2
 * IDE: PyCharm CE 2020.2.3
 * opencv-python-3.4.8.29
